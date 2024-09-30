@@ -1,2 +1,2 @@
 "# OOP-LT-" 
-![Screenshot 2024-09-30 162301](https://github.com/user-attachments/assets/94049c39-9c8f-4962-9cc7-7343357df4d9)
+![image](https://github.com/user-attachments/assets/c83ae8c2-3d15-42e4-929e-f3d43f5a744e)
